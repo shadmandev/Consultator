@@ -1,0 +1,44 @@
+/*768 Screen Size*/
+@media (max-width:768px) {
+	/*Common*/
+	.sec-p {
+	    padding-top: 50px;
+	}
+	/*Mobile Menu*/
+	.slicknav_menu {
+	    display:block;
+	}
+	#menu {
+		display: none;
+	}
+
+	/*Banner Area*/
+	.banner-text {
+	    padding-top: 50px;
+	}
+	.banner-text h2 {
+	    font-size: 30px;
+	}
+	/*About Area*/
+	.about-content {
+	    margin-top: 25px;
+	}
+	.about-text a {
+	    margin-top: 5px;
+	}
+	.pro-btn {
+	    padding: 10px 20px;
+	}
+	.coudown ul li {
+	    margin-right: 10px;
+	    padding-right: 10px;
+	}
+	.coudown ul li h2 {
+	    font-size: 20px;
+	}
+	.coudown ul li p {
+	    font-size: 12px;
+	}
+
+}
+
